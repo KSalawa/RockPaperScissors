@@ -1,5 +1,5 @@
 // Rock Paper Scissors 
-// Galina Podstrechnaya
+// Kamil Salawa 2020
 
 func getUserChoice(userInput: String) -> String {
   if userInput == "rock" || userInput == "paper" || userInput == "scissors"  {
