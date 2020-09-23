@@ -1,5 +1,5 @@
-// Rock Paper Scissors 
-// Kamil Salawa 2020
+// Rock Paper Scissors codecademy
+// Kamil Salawa 2020 
 
 func getUserChoice(userInput: String) -> String {
   if userInput == "rock" || userInput == "paper" || userInput == "scissors"  {
